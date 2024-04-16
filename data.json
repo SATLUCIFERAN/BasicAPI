@@ -2,26 +2,26 @@
     {
         "title":"ดนตรีคืออะไร",
         "subtitle":"คือการทำให้เพื่อนบ้านรำคาญ",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/18/15/54/apartment-1835482_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/SATLUCIFERAN/BasicAPI/main/piano.jpg",
         "detail":"1111111111111111111111111111"
     },
  
     {
         "title":"Saxophone คือ",
         "subtitle":"เพื่อนที่ดีที่สุดของเรา",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/18/15/54/apartment-1835482_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/SATLUCIFERAN/BasicAPI/main/piano.jpg",
         "detail":"3333333333333333333333333333"
     },
     {
         "title":"ระนาดเอกคือ คือ",
         "subtitle":"คุณครูของเราที่สอนสั่งเรามา",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/18/15/54/apartment-1835482_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/SATLUCIFERAN/BasicAPI/main/piano.jpg",
         "detail":"4444444444444444444444444444"
     },
     {
         "title":"Piano(Upright) คือ",
         "subtitle":"เพื่อนที่ดีที่สุดของเรา",
-        "image_url":"https://cdn.pixabay.com/photo/2016/11/18/15/54/apartment-1835482_1280.jpg",
+        "image_url":"https://raw.githubusercontent.com/SATLUCIFERAN/BasicAPI/main/piano.jpg",
         "detail":"3333333333333333333333333333"
     }
 ]
